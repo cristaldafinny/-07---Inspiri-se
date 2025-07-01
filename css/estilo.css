@@ -13,6 +13,8 @@ header {
   color: white;
   padding: 20px 0;
   margin: auto;
+  border-bottom: 2px solid #ccc;
+
 }
 
 h1 {
@@ -27,17 +29,17 @@ p {
 
 section {
   background-color: white;
-  border: 5px solid #cacaca;
-  margin: 10px auto;
+  border: 1px solid #000000;
+  margin: 40px auto;
   padding: 15px;
   border-radius: 6px;
   width: 90%;
-  max-width: 700px;
+  max-width: 500px;
 }
 
 section img {
   max-width: 100%;
-  border: 4px;
+  border: 1px solid black;
 }
 
 section h2 {
