@@ -8,6 +8,7 @@ body {
 }
 
 header {
+  box-sizing: border-box;
   background-color: #8e54cf;
   color: white;
   padding: 20px 0;
@@ -53,6 +54,7 @@ section p {
 }
 
 footer {
+  box-sizing:border-box;
   margin-top: 40px;
   padding: 10px 0;
   font-size: 12px;
